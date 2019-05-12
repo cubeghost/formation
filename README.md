@@ -5,6 +5,10 @@
 
 It can be run multiple times on the same machine safely. It installs, upgrades, or skips packages based on what is already installed on the machine.
 
+## cubeghost notes
+- removed a lot
+- installing virtualbox via cask will run into [this issue](https://apple.stackexchange.com/questions/301303/virtualbox-5-1-28-fails-to-install-on-macos-10-13-due-to-kext-security)
+
 ## Install
 
 Download the script:
