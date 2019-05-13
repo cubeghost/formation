@@ -6,3 +6,5 @@ getantibody/tap/antibody
 yarn
 rbenv
 fortune
+neofetch
+cowsay
